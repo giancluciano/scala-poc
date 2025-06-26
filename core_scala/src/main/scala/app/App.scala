@@ -34,5 +34,14 @@ object App {
 
         val result2 = addAndMult(add, mult, 2, 2)
 
+        val person = Person("Jon", 25)
+        println(person.info())
+
+        val dog = Dog("Bud")
+        println(dog.speak())
+        println(dog.walk())
+
+        val circle = Cicle(2.0)
+        println(circle.area)
     }
 }

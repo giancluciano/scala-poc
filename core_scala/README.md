@@ -1,3 +1,8 @@
 ## core scala
 
-reviewing how variables and functions works in scala
+reviews: 
+- variables
+- functions
+- class
+- traits
+- objects

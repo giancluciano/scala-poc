@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/gian/Projects/scala-poc/core_scala/src/main/scala/app/App.scala:35:13: result is already defined as value result[0m
-[0m[[0m[31merror[0m] [0m[0m        val result = addAndMult(add, mult, 2, 2)[0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/gian/Projects/scala-poc/core_scala/src/main/scala/app/App.scala:44:22: not found: value Cicle[0m
+[0m[[0m[31merror[0m] [0m[0m        val circle = Cicle(2.0)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

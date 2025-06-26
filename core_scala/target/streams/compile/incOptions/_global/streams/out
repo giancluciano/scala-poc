@@ -6,6 +6,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Circle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cicle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cicle$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/gian/Projects/scala-poc/core_scala/target/scala-2.12/classes.bak[0m
